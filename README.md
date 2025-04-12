@@ -1,4 +1,8 @@
-# simple-array-1
+# simple-array-
+
+
 i have competed the the indivdual assighment
-Write an algorithm for finding the smallest number in the list/array?
-Write an algorithm for finding the second or the third largest element?
+
+1'Write an algorithm for finding the smallest number in the list/array?
+
+2.Write an algorithm for finding the second or the third largest element?
